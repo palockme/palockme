@@ -122,7 +122,7 @@ Tenha em mente que esse é um exemplo básico e existem considerações adiciona
 
 Por favor, sinta-se à vontade para compartilhar suas opiniões e sugestões sobre o projeto por meio de um email. Valorizamos muito o seu feedback, pois ele nos ajudará a melhorar e aperfeiçoar o trabalho realizado até o momento. Aguardamos ansiosamente por suas contribuições e agradecemos pelo tempo dedicado em nos fornecer seus comentários construtivos.
 
-[✉️ almeidaa405@gmail.com](mailto:almeidaa405@gmail.com)
+[✉️ palockme@gmail.com](mailto:palockme@gmail.com)
 
 </details>
 
