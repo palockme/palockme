@@ -5,9 +5,7 @@ Estamos felizes em tê-lo(a) aqui e esperamos que encontre todas as informaçõe
 <details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
 
-- Uma feature do android?
-- Um app?
-- Ambas opções?
+- Algo legal.
   
 </details>
 
@@ -15,9 +13,6 @@ Estamos felizes em tê-lo(a) aqui e esperamos que encontre todas as informaçõe
   <summary><strong>⚠️ Antes de começar a desenvolver</strong></summary><br />
 
   1. Você precisa ter o AOSP instalado.
-
-  - Use o comando: `sudo apt install aosp`.
-  - recurso x versão 1.0
   
 </details>
 
